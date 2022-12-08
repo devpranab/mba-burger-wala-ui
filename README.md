@@ -3,3 +3,5 @@
 
 ## Project Outlines
  - Project Setup
+ - Installed All Packages
+ 
