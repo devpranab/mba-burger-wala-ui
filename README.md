@@ -8,3 +8,4 @@
  - Header Design
  - Header Animation Design
  - Banner Page Design
+ - Banner Page Animation Design
