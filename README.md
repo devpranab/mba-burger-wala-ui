@@ -9,3 +9,4 @@
  - Header Animation Design
  - Banner Page Design
  - Banner Page Animation Design
+ - Founder Page Animation Design
