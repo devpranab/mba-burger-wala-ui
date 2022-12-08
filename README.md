@@ -6,3 +6,4 @@
  - Installed All Packages
  - Folder Structure
  - Header Design
+ - Header Animation Design
