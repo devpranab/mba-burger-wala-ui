@@ -4,4 +4,5 @@
 ## Project Outlines
  - Project Setup
  - Installed All Packages
- 
+ - Folder Structure
+ - Header Design
