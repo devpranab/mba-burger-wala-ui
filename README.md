@@ -7,3 +7,4 @@
  - Folder Structure
  - Header Design
  - Header Animation Design
+ - Banner Page Design
