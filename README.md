@@ -11,3 +11,4 @@
  - Banner Section Animation Design
  - Founder Section Animation Design
  - Menu Section Animation Design
+ - Footer Section Design
