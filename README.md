@@ -12,3 +12,4 @@
  - Founder Section Animation Design
  - Menu Section Animation Design
  - Footer Section Design
+ - Contact Section Design
