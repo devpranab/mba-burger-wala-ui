@@ -14,3 +14,4 @@
  - Footer Section Design
  - Contact Section Design
  - Cart Section Design
+ - Shipping Section Design
