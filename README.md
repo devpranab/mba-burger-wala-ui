@@ -13,3 +13,4 @@
  - Menu Section Animation Design
  - Footer Section Design
  - Contact Section Design
+ - Cart Section Design
