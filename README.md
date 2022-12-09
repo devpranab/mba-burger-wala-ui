@@ -15,3 +15,4 @@
  - Contact Section Design
  - Cart Section Design
  - Shipping Section Design
+ - ConfirmOrder Section Design

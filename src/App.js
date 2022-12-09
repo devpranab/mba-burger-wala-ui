@@ -5,6 +5,7 @@ import Footer from './components/Footer/Footer';
 import Contact from './components/Contact/Contact';
 import Cart from './components/Cart/Cart';
 import Shipping from './components/Cart/Shipping/Shipping';
+import ConfirmOrder from './components/Cart/ConfirmOrder/ConfirmOrder';
 import './styles/app.scss';
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
         <Route path="/contact" element={<Contact/>}></Route>
         <Route path="/cart" element={<Cart/>}></Route>
         <Route path="/shipping" element={<Shipping/>}></Route>
+        <Route path="/confirmorder" element={<ConfirmOrder/>}></Route>
       </Routes>
       <Footer/>
     </Router>
