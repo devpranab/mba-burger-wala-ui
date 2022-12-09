@@ -7,6 +7,7 @@ import Cart from './components/Cart/Cart';
 import Shipping from './components/Cart/Shipping/Shipping';
 import ConfirmOrder from './components/Cart/ConfirmOrder/ConfirmOrder';
 import PaymentSuccess from './components/Cart/PaymentSuccess/PaymentSuccess';
+import Login from './components/Login/Login';
 import './styles/app.scss';
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
         <Route path="/shipping" element={<Shipping/>}></Route>
         <Route path="/confirmorder" element={<ConfirmOrder/>}></Route>
         <Route path="/paymentsuccess" element={<PaymentSuccess/>}></Route>
+        <Route path="/login" element={<Login/>}></Route>
       </Routes>
       <Footer/>
     </Router>
