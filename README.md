@@ -16,3 +16,4 @@
  - Cart Section Design
  - Shipping Section Design
  - ConfirmOrder Section Design
+ - PaymentSuccess Section Design
