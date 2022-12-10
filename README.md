@@ -24,3 +24,4 @@
  - Dashboard Section Design
  - Admin Users Section Design
  - Admin Orders Section Design
+ - About Section Design

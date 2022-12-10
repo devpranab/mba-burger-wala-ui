@@ -14,6 +14,7 @@ import OrderDetails from './components/MyOrders/OrderDetails';
 import Users from './components/Admin/Users';
 import Dashboard from './components/Admin/Dashboard';
 import Orders from './components/Admin/Orders';
+import About from './components/About/About';
 import './styles/app.scss';
 
 function App() {
@@ -34,6 +35,7 @@ function App() {
         <Route path="/admin" element={<Dashboard/>}></Route>
         <Route path="/admin/users" element={<Users/>}></Route>
         <Route path="/admin/orders" element={<Orders/>}></Route>
+        <Route path="/about" element={<About/>}></Route>
       </Routes>
       <Footer/>
     </Router>
