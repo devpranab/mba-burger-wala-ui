@@ -15,6 +15,7 @@ import Users from './components/Admin/Users';
 import Dashboard from './components/Admin/Dashboard';
 import Orders from './components/Admin/Orders';
 import About from './components/About/About';
+import NotFound from './components/NotFound/NotFound';
 import './styles/app.scss';
 
 function App() {
@@ -36,6 +37,7 @@ function App() {
         <Route path="/admin/users" element={<Users/>}></Route>
         <Route path="/admin/orders" element={<Orders/>}></Route>
         <Route path="/about" element={<About/>}></Route>
+        <Route path="*" element={<NotFound/>}></Route>
       </Routes>
       <Footer/>
     </Router>

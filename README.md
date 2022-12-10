@@ -2,6 +2,7 @@
 - Using React, Framer-Motion, Sass, Chartjs, React-Icons
 
 ## Project Outlines
+- UI
  - Project Setup
  - Installed All Packages
  - Folder Structure
@@ -25,3 +26,4 @@
  - Admin Users Section Design
  - Admin Orders Section Design
  - About Section Design
+ - NotFound Page Design
