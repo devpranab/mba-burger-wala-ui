@@ -20,3 +20,4 @@
  - Login Section Design
  - Profile Section Design
  - MyOrders Section Design
+ - OrderDetails Section Design
