@@ -18,3 +18,4 @@
  - ConfirmOrder Section Design
  - PaymentSuccess Section Design
  - Login Section Design
+ - Profile Section Design

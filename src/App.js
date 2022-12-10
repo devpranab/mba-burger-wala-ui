@@ -8,6 +8,7 @@ import Shipping from './components/Cart/Shipping/Shipping';
 import ConfirmOrder from './components/Cart/ConfirmOrder/ConfirmOrder';
 import PaymentSuccess from './components/Cart/PaymentSuccess/PaymentSuccess';
 import Login from './components/Login/Login';
+import Profile from './components/Profile/Profile';
 import './styles/app.scss';
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
         <Route path="/confirmorder" element={<ConfirmOrder/>}></Route>
         <Route path="/paymentsuccess" element={<PaymentSuccess/>}></Route>
         <Route path="/login" element={<Login/>}></Route>
+        <Route path="/me" element={<Profile/>}></Route>
       </Routes>
       <Footer/>
     </Router>
