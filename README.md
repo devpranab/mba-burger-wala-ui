@@ -19,3 +19,4 @@
  - PaymentSuccess Section Design
  - Login Section Design
  - Profile Section Design
+ - MyOrders Section Design
