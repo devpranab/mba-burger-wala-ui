@@ -11,6 +11,7 @@ import Login from './components/Login/Login';
 import Profile from './components/Profile/Profile';
 import MyOrders from './components/MyOrders/MyOrders';
 import OrderDetails from './components/MyOrders/OrderDetails';
+import Dashboard from './components/Admin/Dashboard';
 import './styles/app.scss';
 
 function App() {
@@ -28,6 +29,7 @@ function App() {
         <Route path="/me" element={<Profile/>}></Route>
         <Route path="/myorders" element={<MyOrders/>}></Route>
         <Route path="/order/:id" element={<OrderDetails/>}></Route>
+        <Route path="/admin" element={<Dashboard/>}></Route>
       </Routes>
       <Footer/>
     </Router>

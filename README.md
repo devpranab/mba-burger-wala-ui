@@ -21,3 +21,4 @@
  - Profile Section Design
  - MyOrders Section Design
  - OrderDetails Section Design
+ - Dashboard Section Design
