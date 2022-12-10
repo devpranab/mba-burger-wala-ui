@@ -27,3 +27,4 @@
  - Admin Orders Section Design
  - About Section Design
  - NotFound Page Design
+ - Loader in Dashboard Page Design
