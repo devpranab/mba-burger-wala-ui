@@ -22,4 +22,5 @@
  - MyOrders Section Design
  - OrderDetails Section Design
  - Dashboard Section Design
- - Admin User Section Design
+ - Admin Users Section Design
+ - Admin Orders Section Design
